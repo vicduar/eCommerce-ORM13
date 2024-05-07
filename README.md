@@ -22,7 +22,9 @@ Github Repo Link: https://github.com/vicduar/eCommerce-ORM13.git
 ##Installation: The project was created using VS Code editor where Node .js, Sequelize, dotenv, and PostgresSQL were used. It was then uploaded to a Github repository. The server/database was initiated in the terminal using Node. It was videotaped on Screencastify.
 ##Usage: Open the terminal. Since there is already a package.json file, the next step is to enter “npm i” into the terminal to load all necessary files to the project. Next, the command “npm start” is used to start/connect to the server. Insomnia with JSON format was then used to execute the functional piece of the project where tags, products, and categories can be “Get”, “Post”, “Put”, and “Deleted.” With each of these functions, the list of each may be visualized to have successfully executed.
 
-##Contributions: References 
+##Contributions: 
+
+References 
 
 Github (2024). A free webservice for storing and deploying websites. Multiple pages retrieved and utilized from www.github.com May 5-7, 2024.
 Meyers, M. (2024, May 5-7). Tutoring session via Www.zoom.us . Denver University Bootcamp.
