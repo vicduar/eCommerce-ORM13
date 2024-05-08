@@ -3,6 +3,7 @@
 #Description: Work on this project was implemented at the request of the client, whose user story stated the following: “AS A manager at an internet retail company I WANT a back end for my e-commerce website that uses the latest technologies SO THAT my company can compete with other e-commerce companies.”
 
 ##Acceptance Criteria, GIVEN a functional Express.js API:
+
 WHEN I add my database name, PostgreSQL username, and PostgreSQL password to an environment variable file
 THEN I am able to connect to a database using Sequelize
 WHEN I enter schema and seed commands
@@ -22,7 +23,9 @@ Github Repo Link: https://github.com/vicduar/eCommerce-ORM13.git
 
 ##Usage: Open the terminal. Since there is already a package.json file, the next step is to enter “npm i” into the terminal to load all necessary files to the project. Next, the command “npm start” is used to start/connect to the server. Insomnia with JSON format was then used to execute the functional piece of the project where tags, products, and categories can be “Get”, “Post”, “Put”, and “Deleted.” With each of these functions, the list of each may be visualized to have successfully executed/been completed.
 
-##Contributions:
+
+##Usage: Open the terminal. Since there is already a package.json file, the next step is to enter “npm i” into the terminal to load all necessary files to the project. Next, the command “npm start” is used to start/connect to the server. Insomnia with JSON format was then used to execute the functional piece of the project where tags, products, and categories can be “Get”, “Post”, “Put”, and “Deleted.” With each of these functions, the list of each may be visualized to have successfully executed.
+
 
 References 
 
